@@ -1,3 +1,5 @@
 *.png
 receipts/
+!final.png
 !receipts/data/
+
